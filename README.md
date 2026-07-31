@@ -73,7 +73,6 @@ Opened the Datadog **Infrastructure** tab and confirmed the account was live und
 
 ## Repo Structure
 ```
-.
 ├── README.md
 └── screenshots/
     ├── architecture-diagram.png
